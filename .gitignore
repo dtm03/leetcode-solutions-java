@@ -30,3 +30,6 @@ bin/
 
 ### Idea Folder ###
 ./idea
+
+### iml Files ###
+*.iml
